@@ -2,10 +2,10 @@
 module.exports = function(sails) {
     
     var exec = require('./lib/exec.js');
-    var device = require('./lib/device.js');
+    var install = require('./lib/install.js');
     
     return {
         exec: exec,
-        device: device
+        install: install
     };
 };
