@@ -8,6 +8,6 @@
   },
   "author": "Mathieu Andrade",
   "dependencies": {
-    "gladys-lang": "^1.0.0"
+    "gladys-lang": "^1.0.1"
   }
 }
